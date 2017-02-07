@@ -87,6 +87,7 @@ tr{
 .trip_input{
 	position: relative;
 	top: 20px;
+	text-align: center;
 }
 .trip_input input {
 	width: 90%;
