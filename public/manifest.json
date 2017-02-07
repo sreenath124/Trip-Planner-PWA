@@ -1,0 +1,17 @@
+{
+	"name": "Trip Planner",
+	"short_name": "Trip Planner",
+	"display": "standalone",
+	"background_color": "#ddd",
+	"description": "Plan your trip",
+	"icons": [{
+		"src": "assets/tripplanner.png",
+		"sizes" : "48x48",
+		"type": "image/png"
+	},
+	{
+		"src" : "assets/tripplanner.png",
+		"sizes":"72x72",
+		"type":"image/png"
+	}]
+}
