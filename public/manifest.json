@@ -3,7 +3,7 @@
 	"short_name": "Trip Planner",
 	"display": "standalone",
 	"background_color": "#ddd",
-	"start_url" : "/index.html",
+	"start_url" : "https://sreenath124.github.io/Trip-Planner-PWA/public/index.html",
 	"description": "Plan your trip",
 	"icons": [{
 		"src": "assets/tripplanner.png",
