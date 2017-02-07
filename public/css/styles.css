@@ -7,9 +7,6 @@
 body{
 	background-color: #dee1e5;
 }
-h1,h2,h3{
-	text-align: center;
-}
 button{
 	border: none;
 	outline: none;
@@ -18,6 +15,7 @@ header{
 	background-color: #0f4159;
 	width: 100%;
 	height: 60px;
+	text-align: center;
 	font-family: 'Permanent Marker', cursive;
 }
 h1{
@@ -30,8 +28,7 @@ h2{
 }
 h6{
 	color: #fff;
-	font-family: 'Merienda', cursive;
-	text-align: center;
+	font: 300 10px 'Merienda', cursive;
 }
 table{
 	border-collapse: collapse;
@@ -187,6 +184,8 @@ tr{
 }
 footer{
 background-color: #000;
-height: 40px;
-padding: 10px;
+padding:  20px 10px;
+width: 100%;
+box-sizing: border-box;
+text-align: center;
 }
